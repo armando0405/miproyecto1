@@ -144,7 +144,7 @@
     <div class="card mx-auto card w-80 my-1 " > 
               <img src="img/c4.jpg" class="card-img-top" alt="...">
               <div class="card-body">
-                <h5 class="card-title">Katana B13VFK I MSIII</h5>
+                <h5 class="card-title">Katana B13VFK I MSI</h5>
                 <p class="card-text">$ 7.399.990 </p> 
                 <a href="#" class="btn btn-outline-primary">Comprar</a>
               </div>
